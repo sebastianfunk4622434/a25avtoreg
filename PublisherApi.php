@@ -36,7 +36,7 @@ class PublisherApi
     private $phone2;
 
     /** @var string */
-    private $data1 = 'SanKen';
+    private $data1;
 
     /** @var string */
     private $data2 = '';
